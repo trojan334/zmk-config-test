@@ -1,2 +1,2 @@
-config SHIELD_ZMKTEST
-    def_bool $(shields_list_contains, zmkTest)
+config SHIELD_ZMKTESTY
+    def_bool $(shields_list_contains, zmkTesty)

@@ -1,6 +1,6 @@
-if SHIELD_ZMKTEST
+if SHIELD_ZMKTESTY
 
 config ZMK_KEYBOARD_NAME
-    default "zmkTest"
+    default "zmkTesty"
 
 endif
